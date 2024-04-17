@@ -4,6 +4,15 @@
 
 <h3 align="center"> Undergrad at  Queensland University of Technology (QUT)</h3>
 
+<br/>
+
+<div align="center">
+   🔬 Studying a Dual Bachelors in...
+   Information Technology (Computer Science)
+                    & 
+      Business (Accounting)
+</div>
+
 <!--I'm an undergradate student at Queensland University of Technology (QUT), Australia, pursuing a dual bachelors degree in Information Technology (Computer Science) and Business (Accounting). 
 
 <!--
