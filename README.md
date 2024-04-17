@@ -8,6 +8,7 @@
 
 <div align="center">
    📚 Studying Information Technology (Computer Science) & Business (Accounting)
+
 </div>
 
 
