@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-   🔬 Studying a Dual Bachelors in Information Technology (Computer Science) & Business (Accounting)
+   🔬 Studying Information Technology (Computer Science) & Business (Accounting)
 </div>
 
 
