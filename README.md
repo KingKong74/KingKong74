@@ -1,7 +1,5 @@
-### 👋 Hi, it's Bailey 
-
 <h1 align="centre">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4200&pause=1000&color=90D74F&background=FFFFFF00&random=false&width=500&height=70&lines=Hi+There!+;I'm+Bailey+King" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4200&pause=1000&color=90D74F&background=FFFFFF00&random=false&width=500&height=70&lines=Hi+There!+👋+;I'm+Bailey+King" alt="Typing SVG" /></a>
 </h1>
 
 
