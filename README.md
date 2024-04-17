@@ -1,5 +1,11 @@
 ### 👋 Hi, it's Bailey 
 
+<h1 align="centre">
+  <img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Bailey+King!:" />
+</h1>
+
+
 I'm an undergradate student at Queensland University of Technology (QUT), Australia, pursuing a dual bachelors degree in Information Technology (Computer Science) and Business (Accounting). 
 
 <!--
