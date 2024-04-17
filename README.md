@@ -7,10 +7,7 @@
 <br/>
 
 <div align="center">
-   🔬 Studying a Dual Bachelors in...
-   Information Technology (Computer Science)
-                    & 
-      Business (Accounting)
+   🔬 Studying a Dual Bachelors in Information Technology (Computer Science) & Business (Accounting)
 </div>
 
 <!--I'm an undergradate student at Queensland University of Technology (QUT), Australia, pursuing a dual bachelors degree in Information Technology (Computer Science) and Business (Accounting). 
