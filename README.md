@@ -1,5 +1,5 @@
 <h1  align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=90D74F&width=280&height=70&lines=Hi+There!+👋+;I'm+Bailey!" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=90D74F&width=280&height=70&lines=+Hi+There!+👋+;I'm+Bailey!" />
 <!--   Hi there! 👋 I'm Bailey King -->
 </h1>
 
