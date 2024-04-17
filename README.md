@@ -1,5 +1,7 @@
 ### 👋 Hi, it's Bailey 
-______________________________________________________________________________________________________
+
+I'm an undergradate student at Queensland University of Technology (QUT), Australia, pursuing a dual bachelors degree in Information Technology (Computer Science) and Business (Accounting). 
+
 <!--
 **KingKong74/KingKong74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
