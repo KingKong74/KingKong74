@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-   🔬 Studying Information Technology (Computer Science) & Business (Accounting)
+   📚 Information Technology (Computer Science) & Business (Accounting)
 </div>
 
 
