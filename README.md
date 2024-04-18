@@ -11,6 +11,9 @@
 
 </div>
 
+<h3> 🧰 Languages and Tools </h3>
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 <!--
 **KingKong74/KingKong74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
