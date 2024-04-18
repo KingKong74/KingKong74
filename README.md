@@ -4,14 +4,14 @@
 
 <h3 align="center"> Undergrad at  Queensland University of Technology (QUT)</h3>
 
-<br/>
+
 
 <div align="center">
    📚 Studying Information Technology (Computer Science) & Business (Accounting)
 
 </div>
 
----
+#
 
 ### 🧰 Languages and Tools 
 
@@ -29,6 +29,8 @@
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/linux/original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 
 
 
