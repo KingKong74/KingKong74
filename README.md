@@ -2,12 +2,12 @@
   <img align="center" src="https://readme-typing-svg.demolab.com/?font=Aharoni.+Code&weight=600&size=35&duration=3800&pause=1000&center=true&color=90D74F&width=400&height=70&lines=+Hi+There!+👋+;I'm+Bailey+King!" />
 </h1>
 
-<h3 align="center"> Undergrad at  Queensland University of Technology (QUT)</h3>
+<h3 align="center"> Post Grad from Queensland University of Technology (QUT)</h3>
 
 
 
 <div align="center">
-   📚 Studying Information Technology (Computer Science) & Business (Accounting)
+   📚 Graduated with a Bachelors in Information Technology (Computer Science) w/ Distinction & Business (Accounting)
 
 </div>
 
