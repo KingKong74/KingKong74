@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Aharoni+Code&weight=600&size=35&duration=3800&pause=1000&center=true&color=90D74F&width=400&height=70&lines=Hi+There!+👋+;I'm+Bailey+King!" />
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+👋;I'm+Bailey+King!" />
 </p>
 
 <h3 align="center">Post Grad from Queensland University of Technology (QUT)</h3>
