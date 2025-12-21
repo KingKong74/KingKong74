@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aharoni&weight=600&size=35&duration=1500&pause=700&color=90D74F&center=true&multiline=true&width=470&height=155&lines=Hi+There!+%F0%9F%91%8B+;I'm+BK+!+;...And+this+is+my+Github+" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Aharoni&weight=600&size=35&duration=1500&pause=700&color=90D74F&center=true&multiline=true&width=470&height=155&lines=Hi+There!+%F0%9F%91%8B+;I'm+BK+!+;...And+this+is+my+Github+" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">Post Grad from Queensland University of Technology (QUT)</h3>
 
