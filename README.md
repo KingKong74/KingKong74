@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+👋;I'm+Bailey+King!" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <h3 align="center">Post Grad from Queensland University of Technology (QUT)</h3>
 
