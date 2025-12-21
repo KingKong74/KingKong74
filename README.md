@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-   📚 Graduated with a Bachelors in Information Technology (Computer Science) w/ Distinction & Business (Accounting)
+   📚 Graduated with a Bachelors in Information Technology (Computer Science w/ distinction) & Business (Accounting)
 
 </div>
 
