@@ -4,7 +4,7 @@
   </a>
 
 
-<h3 align="center">Post Grad from Queensland University of Technology (QUT)</h3>
+<h3 align="center"> Queensland University of Technology (QUT) Graduate</h3>
 </p>
 
 <div align="center">
