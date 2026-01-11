@@ -4,15 +4,19 @@
   </a>
 
 
-<h3 align="center"> Queensland University of Technology (QUT) Graduate</h3>
+<h3 align="center"> Queensland University of Technology (QUT) Grad</h3>
 </p>
 
 <div align="center">
-   📚 Information Technology (Computer Science w/ distinction) & Business (Accounting) Graduate 
+   📚 Information Technology (Computer Science w/ distinction) & Business (Accounting) Graduate 🎓
 </div>
 
 <div align="center">
-   🔬 Currently Undertaking a Masters in Data Science | Graduate Accounnting in Advisory
+   🔬 Studying a Masters in Data Science 
+</div>
+
+<div align="center">
+  ⚖️ Working as a Grad Accountant in Advisory
 </div>
 <br/>
 
