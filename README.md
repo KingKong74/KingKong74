@@ -9,7 +9,7 @@
 
 <div align="center">
    📚 Information Technology (Computer Science w/ distinction) & Business (Accounting) Graduate 
-      Currently Undertaking a Masters in Data Science | Working in Business advisory
+      /n Currently Undertaking a Masters in Data Science | Working in Business advisory
    
 
 </div>
