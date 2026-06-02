@@ -12,10 +12,6 @@
 </div>
 
 <div align="center">
-   🔬 Studying a Masters in Data Science 
-</div>
-
-<div align="center">
   ⚖️ Working as a Grad Accountant in Advisory
 </div>
 <br/>
