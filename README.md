@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  ⚖️ Working as a Grad Accountant in Advisory
+  ⚖️ Working in a split role in Accounting (Business Advisory) & Systems Analyst
 </div>
 <br/>
 
